@@ -1,0 +1,16 @@
+{
+  "threads": 1,
+  "delay": 1.0,
+  "webhook": "",
+  "use_proxies": false,
+  "timeout": 10,
+  "username_length": 4,
+  "username_count": 10,
+  "charset": "letters+digits",
+  "mode": "random",
+  "pattern": "a1a1",
+  "wordlist_file": "input/wordlist.example.txt",
+  "rps_limit": 0,
+  "auto_save_interval": 0,
+  "resume": false
+}

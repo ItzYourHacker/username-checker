@@ -1,0 +1,38 @@
+# Local credentials, configuration, and private datasets
+/input/*
+!/input/config.example.json
+!/input/wordlist.example.txt
+/wordlist.txt
+.env
+.env.*
+!.env.example
+
+# Generated results and session state
+/available.txt
+/checkpoint.json
+*.log
+/logs/
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Build output
+build/
+dist/
+*.egg-info/
+
+# Local editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini

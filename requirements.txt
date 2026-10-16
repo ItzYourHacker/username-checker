@@ -1,0 +1,6 @@
+aiohttp
+rich
+colorama
+pyfiglet
+aiohttp-socks
+pystyle
