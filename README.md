@@ -154,6 +154,3 @@ The included [.gitignore](.gitignore) excludes local configuration, credentials,
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md). Useful improvements include offline fixtures, enforced rate controls, bounded generation, checkpoint correctness, and credential-safe logging.
 
-## License
-
-No software license has been selected or included. Public visibility alone does not make the project open source or grant a general permission to reuse, modify, or redistribute it. The repository owner should choose a license before inviting reuse. Third-party dependencies retain their own licenses.
